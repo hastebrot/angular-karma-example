@@ -1,0 +1,4 @@
+.idea
+node_modules
+vendor/def.ts/**/*.js
+vendor/def.ts/**/*.js.map
